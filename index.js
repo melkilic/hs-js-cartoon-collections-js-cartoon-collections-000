@@ -30,7 +30,11 @@ function findTheCheese (foods) {
   for(var i=0;i<foods.length;i++){
   if(foods[i]=== "cheddar"
   ||foods[i]==="gouda"
+<<<<<<< HEAD
   ||foods[i]==="camembert"){
+=======
+  ||foods[i]==="thyme"){
+>>>>>>> 9aa4408508cc3a144b85091d13f051c860e791de
   return foods[i];
   }
   }
